@@ -18,4 +18,4 @@ jobs:
 
       - name: Ejecutar git pull en el servidor
         run: |
-          ssh alumno@137.184.127.11 "cd ~/lemp-sites/esteban_rodriguez && git pull origin main"
+          ssh alumno@137.184.127.11 "cd ~/lemp-sites/benjamin_delauro && git pull origin main"
